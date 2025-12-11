@@ -6,3 +6,5 @@ joblib
 folium
 streamlit-folium
 holidays
+lightgbm
+xgboost
